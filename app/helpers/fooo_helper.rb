@@ -1,0 +1,2 @@
+module FoooHelper
+end
